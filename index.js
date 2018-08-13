@@ -22,4 +22,6 @@ function appendKitten(name) {
 return kittens.splice(name);
 }
 
-function 
+function prependKitten(name) {
+  array.slice(name.length(-1));
+}
